@@ -1,0 +1,8 @@
+C:\Users\iremh\source\repos\tipDonusumleriPatika\tipDonusumleriPatika\bin\Debug\tipDonusumleriPatika.exe.config
+C:\Users\iremh\source\repos\tipDonusumleriPatika\tipDonusumleriPatika\bin\Debug\tipDonusumleriPatika.exe
+C:\Users\iremh\source\repos\tipDonusumleriPatika\tipDonusumleriPatika\bin\Debug\tipDonusumleriPatika.pdb
+C:\Users\iremh\source\repos\tipDonusumleriPatika\tipDonusumleriPatika\obj\Debug\tipDonusumleriPatika.csproj.AssemblyReference.cache
+C:\Users\iremh\source\repos\tipDonusumleriPatika\tipDonusumleriPatika\obj\Debug\tipDonusumleriPatika.csproj.SuggestedBindingRedirects.cache
+C:\Users\iremh\source\repos\tipDonusumleriPatika\tipDonusumleriPatika\obj\Debug\tipDonusumleriPatika.csproj.CoreCompileInputs.cache
+C:\Users\iremh\source\repos\tipDonusumleriPatika\tipDonusumleriPatika\obj\Debug\tipDonusumleriPatika.exe
+C:\Users\iremh\source\repos\tipDonusumleriPatika\tipDonusumleriPatika\obj\Debug\tipDonusumleriPatika.pdb
